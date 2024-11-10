@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic"> -->
 
 Here is **Yun Bai (Bella, 白云)**.<br>
 
