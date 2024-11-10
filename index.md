@@ -15,6 +15,8 @@ My research applies state-of-the-art AI technologies and interdisciplinary metho
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - bella.yunbai [at] gmail.com
 
 ---
+## Opportunities
+**<font color="#990000">I am seeking new PhD students for 2025 Fall admission with full scholoarhip. If you are interested, please feel free to contact me!</font>**
 
 ## Research Interests
 
