@@ -6,11 +6,13 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Yun Bai (Bella, 白云)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I am currently working as an Assistant Professor in Intelligent Transportation Thrust, at the Hong Kong University of Science and Technology (HKUST) (Guangzhou). Prior to joining HKUST(GZ), I was an Assistant Research Professor at the Center for Advanced Infrastructure and Transportation (CAIT) at Rutgers University. I obtained my B.S. in Civil Engineering and General Engineering from Zhejiang University in 2008, and Ph.D. in Civil Engineering from University of Illinois at Urbana-Champaign in 2013. I also had one and half year of postdoctoral research experience in the Industrial Engineering (IE) Department at UIUC, as well as one year industrial intern experience at Caterpillar Inc.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+My research applies state-of-the-art AI technologies and interdisciplinary methodologies in the domain of civil & transportation engineering to address multi-modal transportation systems modeling and infrastructure management. She is specialized in data analytics and operations research to build mathematical models and algorithms, as well as data platform and decision support tool development. I am currently serving as an invited member of the TRB AT030 (Standing Committee of Agricultural and Food Transportation).
+
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - bella.yunbai [at] gmail.com
 
 ---
 
